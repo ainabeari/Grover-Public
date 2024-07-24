@@ -16,9 +16,11 @@ Gas Sensor ESP32 Config:
 - Huge partition scheme
 - Adafruit ESP32 Feather
 
-Electronics Diagram:
+## Electronics Diagram:
+
 ![image](https://github.com/user-attachments/assets/bab0c891-3b36-4843-b4e3-e7ec5828603e)
 
-Communications Diagram (3-way BLE via ESP-NOW and Wired for the Arduino):
+## Communications Diagram (3-way BLE via ESP-NOW and Wired for the Arduino):
+
 ![image](https://github.com/user-attachments/assets/832eb301-5b20-4e04-890a-d80669169e72)
 
