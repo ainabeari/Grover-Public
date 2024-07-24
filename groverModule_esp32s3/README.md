@@ -1,0 +1,1 @@
+This esp32s3 was located in the underground portion of the grover module. It controls the motor and communicates with both the sensor suite and the GUI (main controls).

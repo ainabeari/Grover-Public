@@ -1,0 +1,1 @@
+This code is what was uploaded to the ESP32 featherboard on the BME688 development kit. It is taken from the Bosch-BSEC2-Library example code for the 8 sensor development board and modified for our purposes.

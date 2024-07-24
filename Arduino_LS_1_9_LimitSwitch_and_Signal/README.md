@@ -1,0 +1,1 @@
+This code is uploaded to the arduino which operates the motor.

@@ -1,0 +1,1 @@
+This wroom was directly interfaced with the laptop. It fed data to the GUI.
