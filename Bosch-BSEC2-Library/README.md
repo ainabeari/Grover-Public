@@ -1,5 +1,8 @@
 # Instructions for using the BSEC Arduino Library in Arduino 1.8.19
 
+## Please Note:
+This is copied from https://github.com/boschsensortec/Bosch-BSEC2-Library/tree/master/src and may be outdated at the time of reading. Please go to Bosch's github for up to date examples and packages.
+
 ## About BSEC
 
 Bosch Sensortec Environmental Cluster (BSEC) Software v2.4.0.0 released on January 23rd, 2023
