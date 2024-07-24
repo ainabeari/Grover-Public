@@ -18,7 +18,7 @@ Gas Sensor ESP32 Config:
 
 ## Physical Design and Prototype:
 
-![image](https://github.com/user-attachments/assets/b3b6cfef-e57d-45d2-8f2a-79f524415fb1)
+![image](https://github.com/user-attachments/assets/a1520c60-e93f-4455-b06a-0bf8b6c96429)
 
 ![image](https://github.com/user-attachments/assets/444ed774-21e9-44ff-bf69-8958eba60c8e)
 
