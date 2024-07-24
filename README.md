@@ -16,6 +16,12 @@ Gas Sensor ESP32 Config:
 - Huge partition scheme
 - Adafruit ESP32 Feather
 
+## Physical Design and Prototype:
+
+![image](https://github.com/user-attachments/assets/b3b6cfef-e57d-45d2-8f2a-79f524415fb1)
+
+![image](https://github.com/user-attachments/assets/444ed774-21e9-44ff-bf69-8958eba60c8e)
+
 ## Electronics Diagram:
 
 ![image](https://github.com/user-attachments/assets/bab0c891-3b36-4843-b4e3-e7ec5828603e)
